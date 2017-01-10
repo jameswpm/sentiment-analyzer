@@ -1,3 +1,5 @@
+package com.jameswpm.sentiment_analyzer
+
 import org.scalatest.{FunSpec, Matchers}
 
 class SentimentAnalyzerSpec extends FunSpec with Matchers {
